@@ -4,3 +4,4 @@ numpy
 plotly.express
 requests
 urllib3
+requests_kerberos
